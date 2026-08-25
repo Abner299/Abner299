@@ -32,10 +32,6 @@
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abner299&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </td>
 
-<td>
-<img src="https://streak-stats.demolab.com?user=Abner299&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=3&date_format=M%20j%5B,%20Y%5D&order=3" height="100" alt="streak graph"  />
-</td>
-
 </tr>
 </table>
 
