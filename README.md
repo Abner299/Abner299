@@ -33,7 +33,7 @@
 </td>
 
 <td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abner299&theme=tokyonight&utcOffset=-3" />
+<img src="https://streak-stats.demolab.com?user=Abner299&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=3&date_format=M%20j%5B,%20Y%5D&order=3" height="100" alt="streak graph"  />
 </td>
 
 </tr>
