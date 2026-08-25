@@ -17,25 +17,25 @@
 ##  
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/33065147) 
 #
+
+
 <div align="center">
 
 <table>
 <tr>
-<td>
 
+<td>
 <img src="https://github-readme-stats.shion.dev/api?username=Abner299&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
 </td>
+
 <td>
-
-<img src="https://streak-stats.demolab.com/?user=Abner299&theme=tokyonight&hide_border=true" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abner299&theme=tokyonight&hide_border=true" />
 </td>
-<td>
 
+<td>
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abner299&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-
 </td>
+
 </tr>
 </table>
 
