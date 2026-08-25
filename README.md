@@ -29,11 +29,11 @@
 </td>
 
 <td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abner299&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abner299&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </td>
 
 <td>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abner299&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abner299&theme=tokyonight&utcOffset=-3" />
 </td>
 
 </tr>
