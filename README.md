@@ -16,13 +16,9 @@
 
 ###
 
-<div data-importer="stats" align="right">
-  <img src="https://raw.githubusercontent.com/Abner299/Abner299/stats-output/stats.svg?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="100" alt="stats graph" /> <br>
-  <img src="https://raw.githubusercontent.com/Abner299/Abner299/languages-output/languages.svg?locale=en&hide_title=false&layout=default%20&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="100" alt="languages graph"  />
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Abner299&theme=jolly&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Abner299&theme=jolly&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abner299&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/Abner299/Abner299/snake-output/snake.svg" alt="Snake animation" />
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
