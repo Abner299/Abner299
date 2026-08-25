@@ -1,3 +1,11 @@
+#  About Me:
+Just another ordinary person in this world.
+Languages: 🇧🇷 🇺🇸 🇩🇪 🇪🇸
+
+
+
+
+
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -34,12 +42,3 @@
 
 </tr>
 </table>
-
-</div>
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abner299/Abner299/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abner299/Abner299/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Abner299/Abner299/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
